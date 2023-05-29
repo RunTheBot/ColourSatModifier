@@ -1,6 +1,6 @@
 # ColourSatModifier
 
-## A quick and dirty module to change the RGB and Saturation values via SurfaceFlinger, instead of using apps
+## A quick and dirty module to change the RGB and Saturation values via SurfaceFlinger directly, instead of using apps
 
 I created this module to have an appless solution to **Justarandomguy's** post here:
 
