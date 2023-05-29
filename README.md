@@ -42,7 +42,7 @@ For Saturation - change the x after f (floating point value) for a value between
 
 ```service call SurfaceFlinger 1022 f x```
 
-For RGB - change the R, G, B values for ones you like for your device):
+For RGB - change the R, G, B values for ones you like - for your device:
 
 ``` service call SurfaceFlinger 1015 i32 1 f R f 0 f 0 f 0 f 0 f G f 0 f 0 f 0 f 0 f G f 0 f 0 f 0 f 0 f 1```
 
