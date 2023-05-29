@@ -48,3 +48,18 @@ For RGB - change the R, G, B values for ones you like for your device):
 
 His post also includes info on achieving High Brightness Mode on the Pixel 6 Pro. As i was not looking for more apps to install to do this, and i just wanted an easy toggle for this mode for the occasions where i need it, outside, i decided to create a simple Quick Settings script using MacroDroid, which i already have installed for other things. You can find my shared macro by searching for **High Brightness Mode (Pixel 6 Pro)**. You will need to edit and add the custom HBM Quick Settings tile to your devices notifications pulldown, of course.
 
+**Please note:** the included LICENSE only covers the module components provided by the excellent work of Zack5tpg'sMagisk Module Extended, which is available for here for module creators
+
+https://github.com/Zackptg5/MMT-Extended/
+
+All other work is credited above and no one may fork or re-present this module as their own for the purposes of trying to monetize this module or its content without all parties permission. The module comes specifically without an overall license for this intent.
+
+---
+
+
+### Project Stats ###
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/adrianmmiller/ColourSatModifier?label=Release&style=plastic)
+![GitHub Release Date](https://img.shields.io/github/release-date/adrianmmiller/ColourSatModifier?label=Release%20Date&style=plastic)
+![GitHub Releases](https://img.shields.io/github/downloads/adrianmmiller/ColourSatModifier/latest/total?label=Downloads%20%28Latest%20Release%29&style=plastic)
+![GitHub All Releases](https://img.shields.io/github/downloads/adrianmmiller/ColourSatModifier/total?label=Total%20Downloads%20%28All%20Releases%29&style=plastic)
