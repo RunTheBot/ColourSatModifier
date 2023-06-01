@@ -46,7 +46,7 @@ For RGB - change the R, G, B values for ones you like - for your device:
 
 ``` service call SurfaceFlinger 1015 i32 1 f R f 0 f 0 f 0 f 0 f G f 0 f 0 f 0 f 0 f G f 0 f 0 f 0 f 0 f 1```
 
-Note: You can also test the changes have been applied via an adb root shell by toggling the following and witnessing the difference between 1 (on) and (0) off states:
+Note: You can also test the changes have been applied via an adb root shell by toggling the following and witnessing the difference between 1 (on) and 0 (off) states:
 
 ```service call SurfaceFlinger 1023 i32 0``` (off)
 
