@@ -52,7 +52,7 @@ Note: You can also test the changes have been applied via an adb root shell by t
 
 ```service call SurfaceFlinger 1023 i32 1``` (on)
 
-His post also includes info on achieving High Brightness Mode on the Pixel 6 Pro. As i was not looking for more apps to install to do this, and i just wanted an easy toggle for this mode for the occasions where i need it, outside, i decided to create a simple Quick Settings script using MacroDroid, which i already have installed for other things. You can find my shared macro by searching for **High Brightness Mode (Pixel 6 Pro)**. You will need to edit and add the custom HBM Quick Settings tile to your devices notifications pulldown, of course.
+His post also includes info on achieving High Brightness Mode on the Pixel 6 Pro. As i was not looking for more apps to install to do this, and i just wanted an easy toggle for this mode for the occasions where i need it, outside, i decided to create a simple Quick Settings script using MacroDroid, which i already have installed for other things. You can find my shared macro by searching for **High Brightness Mode (Pixel 6 Pro)**. You will need to edit and add the custom HBM Quick Settings tile to your devices notifications pulldown, of course. I leave Auto Brightness in Settings -> Display toggled ON. 
 
 **Please note:** the included LICENSE only covers the module components provided by the excellent work of Zack5tpg'sMagisk Module Extended, which is available for here for module creators
 
