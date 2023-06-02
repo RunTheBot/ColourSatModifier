@@ -62,7 +62,19 @@ His post also includes info on achieving High Brightness Mode on the Pixel 6 Pro
 
 **A:** Nope, thats the **entire point**, its to avoid having to install an app....literally the second sentence on this page, explaining why the module even exists, says **"I created this module to have an appless solution"...**. 
 
-**Longer answer:** if youre using a different device to the Pixel 6 Pro, or youre using the Pixel 6 Pro and just want to fiddle with RGB values to get your personal RGB levels, then its obvious, to me at least, that you might install the apps listed in the original article, play with sliders, and then if you wanted to use the module, edit the service.sh lines that i specifically noted above for this very purpose, with the values you've chosen from the apps. Its clearly stated that the default values used in the original post are used in the module, and are tuned for the Pixel 6 Pro (and i found to be a good compromise (in conjunction with the saturation value of course, because they inter-relate) for that device)
+**Longer answer:** if youre using a different device to the Pixel 6 Pro, or youre using the Pixel 6 Pro and just want to fiddle with RGB values to get your personal RGB levels, then its obvious, to me at least, that you might
+
+1) Install the apps listed in the original article
+2) Play with sliders
+and then if you wanted to use the module
+3) Unzip the module (or just service.sh)
+4) Edit the service.sh lines that i specifically noted above for this very purpose, with the values you've chosen from the apps. 
+5) Zip the files back up (or just service.sh)
+6) Remvoe the apps
+7) Flash the module. 
+8) Reboot (as with all magisk modules to make active)
+
+Its clearly stated that the default values used in the original post are used in the module, and are tuned for the Pixel 6 Pro (and i found to be a good compromise (in conjunction with the saturation value of course, because they inter-relate) for that device)
 
 If you have a query (other than the one covered in the FAQ, please dont ask me to explain why there isnt an interface again) or issue, please use the [Issues](https://github.com/adrianmmiller/ColourSatModifier/issues) tab 
 
