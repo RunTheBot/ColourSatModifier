@@ -70,7 +70,7 @@ and then if you wanted to use the module
 3) Unzip the module (or just service.sh)
 4) Edit the service.sh lines that i specifically noted above for this very purpose, with the values you've chosen from the apps. 
 5) Zip the files back up (or just service.sh)
-6) Remvoe the apps
+6) Remove the apps
 7) Flash the module. 
 8) Reboot (as with all magisk modules to make active)
 
