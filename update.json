@@ -1,6 +1,6 @@
 {
-  "version": "v1.3",
-  "versionCode": 100,
-  "zipUrl": "https://github.com/{user_name}/{module_name}/releases/latest/download/{module_name}.zip",
-  "changelog": "https://raw.githubusercontent.com/{user_name}/{module_name}/{branch}/CHANGELOG.md"
+  "version": "v1.1",
+  "versionCode": 1,
+  "zipUrl": "https://github.com/adrianmmiller/ColourSatModifier/releases/latest/download/ColourSatModifier.v1.0.zip",
+  "changelog": "https://raw.githubusercontent.com/adrianmmiller/ColourSatModifier/main/CHANGELOG.md"
 }
