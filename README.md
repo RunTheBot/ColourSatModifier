@@ -1,4 +1,6 @@
-# ColourSatModifier (Developed originally on A13, and tested working on A14 stable release) 
+# ColourSatModifier 
+
+(Developed originally on A13, and tested working on A14 stable release) 
 
 ## A quick and dirty module to change the RGB and Saturation values on Pixel 6 Pro via SurfaceFlinger directly, instead of using apps
 
