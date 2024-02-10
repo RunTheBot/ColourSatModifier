@@ -1,7 +1,7 @@
-id=73sydney.coloursatmod
+id=colour-correction
 name=Colour And Saturation Modifier
-version=v1.1
+version=v1.2
 versionCode=1
-author=73sydney
+author=RunTheBot, 73sydney
 description=A Colour and Saturation Modifier Module - Default Settings for Pixel 6 Pro as per Justarandomguy's post at: https://forum.xda-developers.com/t/root-tune-saturation-white-balance-and-enable-hbm-on-your-pixel.4575403/
 updateJson=
