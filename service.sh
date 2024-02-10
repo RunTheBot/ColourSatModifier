@@ -32,8 +32,9 @@ while true; do
     # Store the current value for comparison in the next iteration
     prev_value="$value"
 
+	echo "$value"
     # Sleep for some time before checking again
-    sleep 1  # You can adjust the interval as per your requirement
+    sleep 5  # You can adjust the interval as per your requirement
 done
 )&
 
